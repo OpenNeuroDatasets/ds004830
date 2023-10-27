@@ -1,5 +1,5 @@
 {
-    "Name": "Spatial Attention fNIRS Dataset",
+    "Name": "Spatial Attention Decoding using fNIRS",
     "BIDSVersion": "1.7.1",
     "Authors": [
         "Matthew Ning",
