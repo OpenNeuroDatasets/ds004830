@@ -1,1 +1,0 @@
-Please go to derivatives folder to find experimental and bheavioral data description in docx format.
