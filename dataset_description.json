@@ -10,5 +10,6 @@
         "Kamal Sen"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004830.v1.0.0",
-    "License": "CC0"
+    "License": "CC0",
+    "HowToAcknowledge": "Please cite this paper if you are using this dataset: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1329086/full\n\nNing, M., Duwadi, S., Yücel, M. A., von Lühmann, A., Boas, D. A., & Sen, K. (2024). fNIRS dataset during complex scene analysis. Frontiers in Human Neuroscience, 18. https://doi.org/10.3389/fnhum.2024.1329086"
 }
