@@ -1,0 +1,1 @@
+{"name":{"Description":"Name of the optode, must be unique."},"type":{"Description":"Either source or detector."},"x":{"Description":"Recorded position along the x-axis. 'n/a' if not available."},"y":{"Description":"Recorded position along the y-axis. 'n/a' if not available."}}
