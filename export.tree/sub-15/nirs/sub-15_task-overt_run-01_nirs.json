@@ -1,7 +1,0 @@
-{
-  "TaskName": "Overt",
-  "SamplingFrequency": 50,
-  "NIRSChannelCount": 72,
-  "NIRSSourceOptodeCount": 12,
-  "NIRSDetectorOptodeCount": 23
-}
