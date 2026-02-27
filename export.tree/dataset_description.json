@@ -1,0 +1,18 @@
+{
+    "Name": "Spatial Attention Decoding using fNIRS During Complex Scene Analysis",
+    "BIDSVersion": "1.7.1",
+    "Authors": [
+        "Matthew Ning",
+        "Sudan Duwadi",
+        "Meryem A. Yucel",
+        "Alexander Von Luhmann",
+        "David A. Boas",
+        "Kamal Sen"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004830.v2.0.0",
+    "License": "CC0",
+    "HowToAcknowledge": "Ning, M., Duwadi, S., Yücel, M. A., Von Lühmann, A., Boas, D. A., & Sen, K. (2024). fNIRS dataset during complex scene analysis. Frontiers in Human Neuroscience, 18, 1329086.",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.3389/fnhum.2024.1329086"
+    ]
+}

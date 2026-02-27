@@ -1,0 +1,14 @@
+onset	duration	value	trial_type	correct_audio_response	correct_video_response	correct_both_response
+856.60000	5.000	1	Left	1	1	1
+960.00000	5.000	1	Right	1	1	1
+993.02000	5.000	1	Center	1	1	1
+1085.22000	5.000	1	Right	1	1	1
+1189.26000	5.000	1	Center	1	1	1
+1289.56000	5.000	1	Center	1	1	1
+1327.36000	5.000	1	Left	0	1	0
+1437.74000	5.000	1	Center	1	1	1
+1542.14000	5.000	1	Left	1	1	1
+1583.78000	5.000	1	Left	0	1	0
+1614.10000	5.000	1	Right	1	1	1
+1745.98000	5.000	1	Center	1	1	1
+1777.26000	5.000	1	Right	1	1	1
