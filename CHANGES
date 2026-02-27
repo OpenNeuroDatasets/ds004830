@@ -1,0 +1,2 @@
+2.0.0 2026-02-27
+  - Updated nirs.json and events.tsv files and changed the filenaming with tasks to make it BIDS compliant.
