@@ -1,1 +1,7 @@
-{"TaskName":"20220427125103snirf","SamplingFrequency":50,"NIRSChannelCount":72,"NIRSSourceOptodeCount":12,"NIRSDetectorOptodeCount":23}
+{
+  "TaskName": "Overt",
+  "SamplingFrequency": 50,
+  "NIRSChannelCount": 72,
+  "NIRSSourceOptodeCount": 12,
+  "NIRSDetectorOptodeCount": 23
+}
